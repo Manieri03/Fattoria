@@ -6,6 +6,6 @@ namespace InterfacceAnimali
 {
     public interface Nuotatore
     {
-        string Nuota();
+        string Nuota(); 
     }
 }
